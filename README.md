@@ -52,4 +52,7 @@ export default tseslint.config({
   },
 })
 ```
+<<<<<<< HEAD
 "# test." 
+=======
+>>>>>>> 0727a8cc1fe4d520a97d4b91f054d429d6e21d75
